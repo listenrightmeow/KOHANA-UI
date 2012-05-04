@@ -1,7 +1,7 @@
 # Directories #
 ##############
+application/logs
 PSD/
-application/logs/
 public/ui/images/
 public/ui/fonts/
 
