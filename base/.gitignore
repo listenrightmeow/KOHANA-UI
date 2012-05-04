@@ -1,0 +1,38 @@
+# Directories #
+##############
+PSD/
+application/logs/
+public/ui/images/
+public/ui/fonts/
+
+# Compiled source #
+###################
+*.com
+*.class
+*.dll
+*.dmg
+*.exe
+*.o
+*.so
+
+# Packages #
+############
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+# Logs and databases #
+######################
+*.log
+
+# OS generated files #
+######################
+.DS_Store
+ehthumbs.db
+Icon?
+Thumbs.db
